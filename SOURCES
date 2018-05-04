@@ -1,0 +1,8 @@
+A listing of the sources of the FFmpeg binary shipped alongside this package, in order to comply with GPLv2.
+
+FFmpeg source code: git://source.ffmpeg.org/ffmpeg
+x264 source code: git://git.videolan.org/x264.git
+libfribidi source code: git://anongit.freedesktop.org/fribidi/fribidi
+libfreetype source code: http://download.savannah.gnu.org/releases/freetype/freetype-2.4.0.tar.bz2
+
+FFmpeg configuration information is printed upon executing the binary.
